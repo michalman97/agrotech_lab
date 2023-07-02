@@ -15,14 +15,14 @@ As part of the Agrotech course of the Hebrew University of Jerusalem
 ## The sensors and devices we used:
 
 To build your one balcony gardener you will need items from the following list: 
-ESP 32 firebeetle
-FDR soil humidity
-Solenoid
-Booster
-Relay
-3.7V battery
-Some wires
-Some pipes and connectors
+* ESP 32 firebeetle
+* FDR soil humidity
+* Solenoid
+* Booster
+* Relay
+* 3.7V battery
+* Some wires
+* Some pipes and connectors
 
 
 ## Future work and improvements to make
