@@ -10,4 +10,4 @@ The handleMeasurements() function calculates the average humidity by taking mult
 
 The setup() function initializes the WiFi connection, sets pin A4 as an output for the watering mechanism, defines the server endpoints, and starts the server. The loop() function continuously handles incoming client requests.
 
-Overall, this code creates a web interface for users to choose the pot size and vegetation type, receive feedback on the average soil humidity, and trigger the watering process if necessary.
+In summary, this code creates a web interface for users to choose the pot size and vegetation type, receive feedback on the average soil humidity, and trigger the watering process if necessary.
