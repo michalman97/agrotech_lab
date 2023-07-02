@@ -1,6 +1,5 @@
-# Balcony_gardener
+# Balcony gardener
 Agrotech final project 2023
-
 
 We started the project thinking of our house plants that we love but not always know exactly what each one of them needs. Studying Agriculture, we often meet with friends and family’s questions about their house plants “What does this plant need in order for it  to be happy?”
 In our experience it usually has something to do with water.. whether you water it too much, or too little, the result can seem quite similar for the naked eye - an unhappy plant presented with fallen leaves, blackened leaf edges ect.
