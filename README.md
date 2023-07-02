@@ -10,10 +10,10 @@ With a compact device, you can input the size and type of plant using your phone
 We believe that the balcony gardener will allow more confidence among us - plants growers, especially because each of us can order and build it ourselves, with minimal expense and effort.
 Have fun, and go make your plants happy!
 
-By Bnaya Hemi, Alon Dror, Michal Mannes
+By Bnaya Hami, Alon Dror, Michal Mannes
 As part of the Agrotech course of the Hebrew University of Jerusalem
 
-# The sensors and devices we used:
+## The sensors and devices we used:
 
 To build your one balcony gardener you will need items from the following list: 
 ESP 32 firebeetle
@@ -26,4 +26,4 @@ Some wires
 Some pipes and connectors
 
 
-# Future work and improvements to make
+## Future work and improvements to make
