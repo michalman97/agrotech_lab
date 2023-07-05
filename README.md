@@ -26,3 +26,9 @@ To build your one balcony gardener you will need items from the following list:
 
 
 ## Future work and improvements to make
+Future work and improvements for the Balcony Gardener project could include:
+
+* PAR Sensor: Adding a PAR sensor to evaluate if the plant is receiving sufficient light. This would provide additional information for optimal plant care.
+* Convenient Water Container: Developing a more convenient water container system that ensures easy refilling and maintenance, enhancing the user experience.
+* QR Code Monitoring: Implementing QR codes on each pot to monitor changes in soil humidity. This would allow users to track and analyze the plant's moisture levels over time.
+* Independence from Client Interface: Considering the option to reduce dependence on the client interface by incorporating switches on the device itself. This would enable 
